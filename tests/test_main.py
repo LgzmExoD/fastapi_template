@@ -1,0 +1,8 @@
+import pytest
+from httpx import AsyncClient
+
+
+@pytest.mark.anyio
+async def test_root(client: AsyncClient):
+    response = await client.get("/api/v1/openapi.json")
+    assert response.status_code == 200

